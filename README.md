@@ -1,4 +1,4 @@
-# QuoraInsincereQuestion
+# Quora Insincere Question Detection
 
 Quora is a public question answer forum where anyone with an account can post questions or answers related to various topics, 
 such as science, religion, politics, sports etc. With such a wide range of topics being discussed without any sort of 
